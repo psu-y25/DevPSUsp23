@@ -10,6 +10,7 @@ intents.message_content = True
 
 
 class DevPSUBot(discord.Client):
+    pass
     
 
 
