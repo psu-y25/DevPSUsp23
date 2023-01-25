@@ -8,6 +8,11 @@ token = os.getenv('TOKEN')
 intents = discord.Intents.default()
 intents.message_content = True
 
-client = discord.Client(intents=intents)
 
-client = discord.Client()
+class DevPSUBot(discord.Client):
+    
+
+
+
+client = discord.Client(intents=intents)
+client.run(token)
