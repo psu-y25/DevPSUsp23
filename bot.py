@@ -17,3 +17,4 @@ class DevPSUBot(discord.Client):
 
 client = discord.Client(intents=intents)
 client.run(token)
+#test
