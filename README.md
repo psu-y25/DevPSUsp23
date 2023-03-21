@@ -1,1 +1,3 @@
-# DevPSUsp23test
+# DevPSUsp23
+
+## Discord Bot Project
