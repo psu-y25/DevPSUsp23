@@ -1,3 +1,3 @@
-# DevPSUsp23
+# Discord Bot Project
 
-## Discord Bot Project
+#### Project @ DevPSU sp23
