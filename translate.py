@@ -28,14 +28,3 @@ def translator_func(msg, language='english'):
     return language + ": " + translator.translate(text=msg, dest=lc).text
 
 
-
-####            Questions:          ####
-
-"""
-
-where did Bot_Functions directory come from?
-
-
-
-
-"""
